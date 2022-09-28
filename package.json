@@ -1,0 +1,19 @@
+{
+  "name": "socrat-projector",
+  "version": "1.0.0",
+  "description": "The standalone tensorflow projector.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LM233/tensorProjector.git"
+  },
+  "author": "lm233",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LM233/tensorProjector/issues"
+  },
+  "homepage": "https://github.com/LM233/tensorProjector#readme"
+}
