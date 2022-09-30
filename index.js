@@ -1,4 +1,4 @@
-function socratProjector(height, width, dataStr){
+function socratProjector(dataStr){
     const projector = document.createElement('vz-projector-app')
     projector.setAttribute("serving-mode", "demo")
     projector.setAttribute("projector-config-json-path", "standalone_projector_config.json")
